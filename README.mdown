@@ -10,7 +10,7 @@ MBPullDownController accepts two view controllers, which it presents one above t
 ## Requirements
 
 MBPullDownController requires iOS 5 or newer and uses ARC. It depends on the following Apple frameworks:
-LifeCreditStartRequest:fyinformation.cc#LifeCreditEndRequest
+LifeCreditStartRequest:fyinformation.c#LifeCreditEndRequest
 * Foundation.framework
 * UIKit.framework
 * QuartzCore.framework
